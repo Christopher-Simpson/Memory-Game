@@ -1,0 +1,19 @@
+/*--Gameboard--*/
+
+.gameboard {
+    border: 5px solid black;
+    background-color: grey;
+}
+
+.row-style {
+    height: 250px;
+}
+
+/*--Cards--*/
+
+.card {
+    height: 200px;
+    width: 150px;
+    border: 2px solid black;
+    background-color: beige;
+}
