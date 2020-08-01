@@ -16,6 +16,7 @@
     width: 150px;
     border: 2px solid black;
     background-color: beige;
+    transition: all 200ms ease-in-out;
 }
 
 .card:hover {
@@ -23,7 +24,8 @@
     width: 160px;
     border: 2px solid black;
     background-color: beige;
-    transition: all 0.3s ease-in-out;
+    box-shadow: 5px 10px;
+    transition: all 200ms ease-in-out;
 }
 .change {
     height: 200px;
