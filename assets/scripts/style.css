@@ -17,3 +17,17 @@
     border: 2px solid black;
     background-color: beige;
 }
+
+.card:hover {
+    height: 210px;
+    width: 160px;
+    border: 2px solid black;
+    background-color: beige;
+    transition: all 0.3s ease-in-out;
+}
+.change {
+    height: 200px;
+    width: 150px;
+    border: 2px solid black;
+    background-color: red;
+}
